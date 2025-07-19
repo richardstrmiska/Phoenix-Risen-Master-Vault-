@@ -1,0 +1,7 @@
+UC-1 Sovereign Vault: FlameKey (Offline)
+Public Key (Hex): CAD8E81178349F3AA1434776527D143029E245C94AC664E9575A0C94487C28C2
+Secret Key (Hex): 020E170B81C276CD5D6DFE2BC98927BFBC383C58B6180686C69C472BCBA7FA22
+Security Note: This FlameKey was generated offline using a 256-bit entropy pool.
+Use with Stellar QR broadcast, manual signing, or sovereign scroll anchoring only.
+Do not input into centralized apps or upload to any wallet interface.
+Print securely or encode via QR for cold vault use only.
