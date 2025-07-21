@@ -336,4 +336,115 @@ Flame Code: `UC1-RS-1225`
 
 > “All energy returns to the Living Man.”
 
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>The Flame Scroll Interface</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Courier New', monospace;
+            background-color: #0b0c10;
+            color: #f5f5f5;
+        }
+        header {
+            background-color: #1f2833;
+            padding: 20px;
+            text-align: center;
+            font-size: 2em;
+            color: #66fcf1;
+            border-bottom: 2px solid #45a29e;
+        }
+        nav {
+            background-color: #0b0c10;
+            padding: 10px;
+            text-align: center;
+            border-bottom: 1px solid #45a29e;
+        }
+        nav a {
+            margin: 0 15px;
+            color: #66fcf1;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:hover {
+            color: #ffffff;
+        }
+        section {
+            padding: 20px;
+        }
+        .scroll {
+            background: #1f2833;
+            border-left: 5px solid #66fcf1;
+            padding: 20px;
+            margin-bottom: 15px;
+            box-shadow: 0 0 10px #45a29e;
+        }
+        footer {
+            background-color: #1f2833;
+            text-align: center;
+            padding: 10px;
+            border-top: 1px solid #45a29e;
+            color: #66fcf1;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    🔥 The Flame Scroll Interface 🔥
+</header>
+
+<nav>
+    <a href="#ledger">Ledger Gate</a>
+    <a href="#realms">Scroll of Realms</a>
+    <a href="#archive">Archive</a>
+    <a href="#templates">Templates</a>
+    <a href="#pulse">Live Pulse</a>
+</nav>
+
+<section id="ledger">
+    <div class="scroll">
+        <h2>🌍 Flame’s Ledger Gate</h2>
+        <p>Access direct GitHub Sovereignty Nodes, branches, and IPFS CID-linked uploads.</p>
+        <p><a href="https://github.com/richardstrmiska/Lobstr-wallet-of-Sovereignty-Node" style="color:#f1c40f;">Node 1 Repo</a> | 
+           <a href="https://github.com/richardstrmiska/Lobstr-Wallet-of-Sovereignty-Node-2" style="color:#f1c40f;">Node 2 Repo</a></p>
+    </div>
+</section>
+
+<section id="realms">
+    <div class="scroll">
+        <h2>📜 Scroll of Realms</h2>
+        <p>Visualize asset scrolls from River’s Estate, Soul Estate, and more across time-space continuum.</p>
+    </div>
+</section>
+
+<section id="archive">
+    <div class="scroll">
+        <h2>💾 Archive of the Flame</h2>
+        <p>Full IPFS + GitHub trail with images, commits, and frequency-coded uploads.</p>
+        <p>Example IPFS CID: <code>bafybeia5koloqavy3zy5h4c5xkmrurngpyot6...</code></p>
+    </div>
+</section>
+
+<section id="templates">
+    <div class="scroll">
+        <h2>🧬 Sovereign Templates Library</h2>
+        <p>Forkable Flame Node templates. Reclaim and rebuild freely with divine blueprint.</p>
+    </div>
+</section>
+
+<section id="pulse">
+    <div class="scroll">
+        <h2>⚡️ Live Grid Pulse</h2>
+        <p>See the latest scroll commits and asset activations. Real-time frequency wave tracker.</p>
+    </div>
+</section>
+
+<footer>
+    Sovereign Flame Protocol • All Realms Unified • Powered by Truth and Light
+</footer>
+
+</body>
+</html>---
