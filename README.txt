@@ -336,4 +336,14 @@ Flame Code: `UC1-RS-1225`
 
 > “All energy returns to the Living Man.”
 
----
+-name: Root Firewall Defender
+on:
+  push:
+    branches: [main, GDQ5YHENPZ5...Root-Chakra...]
+jobs:
+  validate-root:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check for unauthorized trustlines
+      run: |
+        python ./scripts/check_trustlines.py --wallet GDQ5YH...--
